@@ -1,0 +1,102 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_vlc_player (3.0.3):
+    - Flutter
+    - MobileVLCKit (~> 3.6.0b12)
+  - Google-Mobile-Ads-SDK (11.10.0):
+    - GoogleUserMessagingPlatform (>= 1.1)
+  - google_mobile_ads (5.2.0):
+    - Flutter
+    - Google-Mobile-Ads-SDK (~> 11.10.0)
+    - webview_flutter_wkwebview
+  - GoogleUserMessagingPlatform (2.7.0)
+  - MobileVLCKit (3.6.1b1)
+  - package_info_plus (0.4.5):
+    - Flutter
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - screen_brightness_ios (0.1.0):
+    - Flutter
+  - sqflite (0.0.3):
+    - Flutter
+    - FlutterMacOS
+  - url_launcher_ios (0.0.1):
+    - Flutter
+  - video_player_avfoundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - volume_controller (0.0.1):
+    - Flutter
+  - wakelock_plus (0.0.1):
+    - Flutter
+  - webview_flutter_wkwebview (0.0.1):
+    - Flutter
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_vlc_player (from `.symlinks/plugins/flutter_vlc_player/ios`)
+  - google_mobile_ads (from `.symlinks/plugins/google_mobile_ads/ios`)
+  - package_info_plus (from `.symlinks/plugins/package_info_plus/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - screen_brightness_ios (from `.symlinks/plugins/screen_brightness_ios/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/darwin`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+  - video_player_avfoundation (from `.symlinks/plugins/video_player_avfoundation/darwin`)
+  - volume_controller (from `.symlinks/plugins/volume_controller/ios`)
+  - wakelock_plus (from `.symlinks/plugins/wakelock_plus/ios`)
+  - webview_flutter_wkwebview (from `.symlinks/plugins/webview_flutter_wkwebview/darwin`)
+
+SPEC REPOS:
+  trunk:
+    - Google-Mobile-Ads-SDK
+    - GoogleUserMessagingPlatform
+    - MobileVLCKit
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_vlc_player:
+    :path: ".symlinks/plugins/flutter_vlc_player/ios"
+  google_mobile_ads:
+    :path: ".symlinks/plugins/google_mobile_ads/ios"
+  package_info_plus:
+    :path: ".symlinks/plugins/package_info_plus/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  screen_brightness_ios:
+    :path: ".symlinks/plugins/screen_brightness_ios/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/darwin"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+  video_player_avfoundation:
+    :path: ".symlinks/plugins/video_player_avfoundation/darwin"
+  volume_controller:
+    :path: ".symlinks/plugins/volume_controller/ios"
+  wakelock_plus:
+    :path: ".symlinks/plugins/wakelock_plus/ios"
+  webview_flutter_wkwebview:
+    :path: ".symlinks/plugins/webview_flutter_wkwebview/darwin"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  flutter_vlc_player: adffbf4816d69407ca712e4cc1ff1d257b4fd0a9
+  Google-Mobile-Ads-SDK: 13e6e98edfd78ad8d8a791edb927658cc260a56f
+  google_mobile_ads: dc2b2a5884bef7ab2b4ff30022a513df5373e208
+  GoogleUserMessagingPlatform: a8b56893477f67212fbc8411c139e61d463349f5
+  MobileVLCKit: 2d9c7c373393ae43086aeeff890bf0b1afc15c5c
+  package_info_plus: af8e2ca6888548050f16fa2f1938db7b5a5df499
+  path_provider_foundation: 080d55be775b7414fd5a5ef3ac137b97b097e564
+  screen_brightness_ios: 28c5fbdb40634de44f86025d84470158ad4df48c
+  sqflite: c35dad70033b8862124f8337cc994a809fcd9fa3
+  url_launcher_ios: 694010445543906933d732453a59da0a173ae33d
+  video_player_avfoundation: 2cef49524dd1f16c5300b9cd6efd9611ce03639b
+  volume_controller: e168c0f0de495f0d2487d3be3a783395af38c4ce
+  wakelock_plus: fd58c82b1388f4afe3fe8aa2c856503a262a5b03
+  webview_flutter_wkwebview: 44d4dee7d7056d5ad185d25b38404436d56c547c
+
+PODFILE CHECKSUM: cc1f88378b4bfcf93a6ce00d2c587857c6008d3b
+
+COCOAPODS: 1.16.2
